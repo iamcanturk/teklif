@@ -25,137 +25,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11be0c3f-97d9-4a39-853a-9bc72b7734f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/easynav.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/Flot/examples/axes-time-zones/tz/leapseconds" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/Flot/examples/navigate/arrow-down.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/Magnific-Popup-master/website/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/PACE/themes/white/pace-theme-minimal.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/apexcharts-bundle/samples/react/bubble/simple-bubble.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/apexcharts-bundle/samples/react/heatmap/rounded.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/apexcharts-bundle/samples/vue/heatmap/rounded.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.standalone.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/bootstrap-datepicker/dist/locales/bootstrap-datepicker.sl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/chartist-js-develop/chartist-js-develop/site/code-snippets/simple-start-fixed-chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/chartist-js-develop/chartist-js-develop/site/layouts/landing.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/ckeditor/samples/old/assets/inlineall/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/ckeditor/samples/toolbarconfigurator/font/fontello.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PDF/empty_trash.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PDF/low_battery.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PDF/settings.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/144/accept_database-144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/144/answers-144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/192/business-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/192/cancel-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/192/podium_without_speaker-192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/24/internal-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/24/multiple_smartphones-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/24/two_smartphones-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/256/bad_decision-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/256/disclaimer-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/256/lock-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/256/low_priority-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/256/sales_performance-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/256/scatter_plot-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/256/todo_list-256.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/48/cancel-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/48/film_reel-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/48/like-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/48/shipped-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/512/factory-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/512/in_transit-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/96/contacts-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/96/delete_database-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/96/money_transfer-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/PNG/96/organization-96.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/flat-color-icons/SVG/music.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-slimscroll/examples/chaining.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-sparkline/src/chart-bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-validation-1.17.0/demo/login/images/bg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-validation-1.17.0/demo/marketo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-validation-1.17.0/dist/localization/messages_de.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-validation-1.17.0/dist/localization/messages_ru.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-validation-1.17.0/src/localization/messages_sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jquery-wizard-master/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jvectormap/tests/assets/us/jquery-jvectormap-data-us-pa-lcc-en.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/jvectormap/tests/processor/russia_fd.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/moment/locale/ar-ma.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/moment/src/locale/ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/moment/src/locale/mi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/moment/src/locale/ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/morris.js/spec/lib/bar/bar_spec.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/perfect-scrollbar-master/examples/assets/azusa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/popper/docs/_includes/example10-code.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/popper/docs/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/select2/dist/js/i18n/da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/select2/docs/_sass/vendor/bootstrap/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/select2/docs/_sass/vendor/bootstrap/_progress-bars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/select2/docs/vendor/images/flags/id.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/select2/docs/vendor/js/placeholders.jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/select2/src/js/select2/compat/query.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/select2/src/js/select2/i18n/lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/zingchart_branded_version/modules/zingchart-maps-kwt.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/zingchart_branded_version/modules/zingchart-maps-sur.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/zingchart_branded_version/modules/zingchart-maps-tha.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/zingchart_branded_version/modules/zingchart-maps-ury.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/zingchart_branded_version/modules/zingchart-maps-usa_ia.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/zingchart_branded_version/modules/zingchart-maps-usa_nd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_components/zingchart_branded_version/modules/zingchart-maps-uzb.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/JqueryPrintArea/demo/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/ace-builds-master/src-min-noconflict/mode-io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/ace-builds-master/src-min-noconflict/mode-nix.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/ace-builds-master/src-min-noconflict/mode-typescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/ace-builds-master/src-min-noconflict/snippets/elixir.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/ace-builds-master/src-min-noconflict/snippets/io.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/iCheck/square/orange@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/vendor_plugins/jvectormap/jquery-jvectormap-1.2.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/activity.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/align-right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/arrow-left-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/book-open.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/dollar-sign.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/help-circle.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/minus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/type.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/feather-icons/icons/user-x.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/flag-icon-css/flags/1x1/bt.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/flag-icon-css/flags/1x1/to.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/flag-icon-css/flags/4x3/gd.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/flag-icon-css/flags/4x3/np.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/iconsmind/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/linea-icons/fonts/linea-software-10.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/icons/weather-icons/sass/icon-classes/classes-neutral.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/american-express.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/auth-bg/bg-5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/avatar/375x200/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/user6-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/pages/ecommerce_details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/includes/head.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/includes/scripts.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/control-sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/footer.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/head.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/header.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/scripts.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/includes/sidebar.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/auth.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/main.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/profile.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/teklif.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/teklif.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/FortifyServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/FortifyServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -317,7 +192,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606586846012</updated>
       <workItem from="1606586847274" duration="417000" />
-      <workItem from="1606587412516" duration="2312000" />
+      <workItem from="1606587412516" duration="3031000" />
     </task>
     <servers />
   </component>
