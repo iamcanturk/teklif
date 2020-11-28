@@ -25,12 +25,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11be0c3f-97d9-4a39-853a-9bc72b7734f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Models/ActivationCode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_11_28_200705_activation_table_migrate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/tr/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/tr/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/tr/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/tr/validation.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1606586846012</updated>
       <workItem from="1606586847274" duration="417000" />
-      <workItem from="1606587412516" duration="3031000" />
+      <workItem from="1606587412516" duration="3877000" />
     </task>
     <servers />
   </component>
@@ -214,6 +217,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="378" y="162" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606593949953">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="162" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1606593949953" />
     <state x="459" y="330" key="NewPhpFileDialog" timestamp="1606589490034">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
