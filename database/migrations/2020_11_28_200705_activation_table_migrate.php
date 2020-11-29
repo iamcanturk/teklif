@@ -13,10 +13,11 @@ class ActivationTableMigrate extends Migration
      */
     public function up()
     {
-        Schema::create('ActivationCode', function (Blueprint $table) {
+        Schema::create('activation_codes', function (Blueprint $table) {
             $table->id();
-            $table->string('activation-code');
+            $table->string('activation_code');
             $table->string('email')->unique();
+            $table->timestamps();
 
         });
     }
@@ -29,6 +30,6 @@ class ActivationTableMigrate extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('ActivationCode');
+        Schema::dropIfExists('activation_codes');
     }
 }

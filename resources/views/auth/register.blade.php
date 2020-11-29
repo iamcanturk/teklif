@@ -51,9 +51,9 @@
                                         <div class="input-group-prepend">
                                             <span class="input-group-text bg-transparent text-white"><i class="ti-arrow-circle-right"></i></span>
                                         </div>
-                                        <input type="text" name="activation-code" id="activation-code" class="form-control pl-15 bg-transparent text-white plc-white  @error('activation-code') is-invalid @enderror "  value="{{old('activation-code')}}" placeholder="Aktivasyon Kodu">
+                                        <input type="text" name="activation_code" id="activation_code" class="form-control pl-15 bg-transparent text-white plc-white  @error('activation_code') is-invalid @enderror "  value="{{old('activation_code')}}" placeholder="Aktivasyon Kodu">
                                     </div>
-                                    @error('activation-code')
+                                    @error('activation_code')
                                     <span class="invalid-feedback" role="alert">{{ $message }}</span>
                                     @enderror
                                 </div>

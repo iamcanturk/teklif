@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class ActivationCode extends Model
+class activation_codes extends Model
 {
     use HasFactory;
 
@@ -17,7 +17,7 @@ class ActivationCode extends Model
     protected $fillable = [
 
         'email',
-        'activation-code',
+        'activation_code',
 
     ];
 
@@ -28,6 +28,6 @@ class ActivationCode extends Model
      */
     protected $hidden = [
 
-        'activation-code',
+
     ];
 }

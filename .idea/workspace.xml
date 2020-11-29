@@ -25,22 +25,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11be0c3f-97d9-4a39-853a-9bc72b7734f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Models/ActivationCode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2020_11_28_200705_activation_table_migrate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/lang/tr/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/ProfileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/teklif.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/teklif.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Actions/Fortify/CreateNewUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/ActivationCode.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/activation_codes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_11_28_200705_activation_table_migrate.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_11_28_200705_activation_table_migrate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -160,6 +168,7 @@
       <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
       <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
       <path value="$PROJECT_DIR$/vendor/devmarketer/easynav" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1kvhCXjMZAplHimPJc97Fa0tZgH" />
@@ -178,6 +187,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -195,7 +205,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606586846012</updated>
       <workItem from="1606586847274" duration="417000" />
-      <workItem from="1606587412516" duration="3877000" />
+      <workItem from="1606587412516" duration="6683000" />
+      <workItem from="1606655693694" duration="1867000" />
     </task>
     <servers />
   </component>
@@ -212,18 +223,31 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="389" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606596884049">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="389" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.800@0.0.1280.800" timestamp="1606596884049" />
     <state x="378" y="162" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606593949953">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="162" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1606593949953" />
+    <state x="386" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1606656908848">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="386" y="251" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1606656908848" />
     <state x="459" y="330" key="NewPhpFileDialog" timestamp="1606589490034">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="459" y="330" key="NewPhpFileDialog/0.0.1280.800@0.0.1280.800" timestamp="1606589490034" />
+    <state x="387" y="142" width="683" height="548" key="find.popup" timestamp="1606598778269">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="387" y="142" width="683" height="548" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1606598778269" />
   </component>
 </project>

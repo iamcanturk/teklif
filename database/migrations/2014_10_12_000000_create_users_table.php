@@ -17,7 +17,7 @@ class CreateUsersTable extends Migration
             $table->id();
             $table->string('name');
             $table->string('lastname');
-            $table->string('activation-code');
+            $table->string('activation_code');
 
             $table->string('email')->unique();
             $table->timestamp('email_verified_at')->nullable();
