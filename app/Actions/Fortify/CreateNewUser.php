@@ -2,7 +2,7 @@
 
 namespace App\Actions\Fortify;
 
-use App\Models\activation_codes;
+use App\Models\activationCode;
 use App\Models\User;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
@@ -25,7 +25,7 @@ class CreateNewUser implements CreatesNewUsers
             'name' => ['required', 'string', 'max:255'],
             'lastname' => ['required', 'string', 'max:255'],
             'activation_code' => ['required', 'string', 'max:255',
-                Rule::exists('activation_codes'),
+                Rule::exists('ActivationCode'),
 
             ],
             'email' => [
@@ -34,7 +34,7 @@ class CreateNewUser implements CreatesNewUsers
                 'email',
                 'max:255',
                 Rule::unique(User::class),
-                Rule::exists('activation_codes'),
+                Rule::exists('activationCode'),
             ],
             'password' => $this->passwordRules(),
         ])->validate();

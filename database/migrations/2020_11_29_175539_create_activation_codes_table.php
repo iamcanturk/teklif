@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class ActivationTableMigrate extends Migration
+class CreateActivationCodesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -16,12 +16,10 @@ class ActivationTableMigrate extends Migration
         Schema::create('activation_codes', function (Blueprint $table) {
             $table->id();
             $table->string('activation_code');
-            $table->string('email')->unique();
+            $table->string('email');
             $table->timestamps();
-
         });
     }
-
 
     /**
      * Reverse the migrations.

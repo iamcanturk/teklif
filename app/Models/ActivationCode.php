@@ -5,17 +5,10 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class activation_codes extends Model
+class ActivationCode extends Model
 {
     use HasFactory;
-
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array
-     */
     protected $fillable = [
-
         'email',
         'activation_code',
 
@@ -28,6 +21,7 @@ class activation_codes extends Model
      */
     protected $hidden = [
 
+        'activation_code',
+        ];
 
-    ];
 }
